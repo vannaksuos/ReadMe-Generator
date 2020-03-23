@@ -2,6 +2,7 @@ function generateMarkdown(data) {
   return `
 # ${data.proImage}
 # ${data.email}
+# ${data.title}
 # ${data.badges}
 # ${data.description}
 # ${data.contents}

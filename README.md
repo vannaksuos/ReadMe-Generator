@@ -1,13 +1,14 @@
 
 # https://avatars1.githubusercontent.com/u/59664686?v=4
 # null
-# all of it
-# not yet
-# not sure yet
-# npm i
-# like this
-# by me Vannak Suos
-# nope
-# test run
+# readme generator
+# w	/chrome-web-store/rating/:storeId
+# read me generator
+# none
+# idk
+# idk
 # no
+# no
+# idk
+# idk
 

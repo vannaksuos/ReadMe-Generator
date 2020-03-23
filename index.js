@@ -8,6 +8,10 @@ inquirer
       message: "Enter your GitHub username:",
       name: "username"
   },
+  { 
+      message: "What is the Title?",
+      name: "title"
+  },
   {
       message: "What do you want in your badges?",
       name: "badges"
