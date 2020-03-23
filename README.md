@@ -1,14 +1,14 @@
 
 # https://avatars1.githubusercontent.com/u/59664686?v=4
 # null
-# readme generator
-# w	/chrome-web-store/rating/:storeId
-# read me generator
+# Readme Generator
+# any badges I can get
+# Just building a readme generator
+# dont have a table of contents yet
+# not sure how to install it yet
+# not sure yet
+# not yet
+# no
+# with badges i think
 # none
-# idk
-# idk
-# no
-# no
-# idk
-# idk
 
