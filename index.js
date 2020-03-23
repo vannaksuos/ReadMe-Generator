@@ -1,7 +1,7 @@
 const fs = require("fs");
 const axios = require("axios");
 const inquirer = require("inquirer");
-
+const markDown = require("./generateMarkdown");
 inquirer
   .prompt([
       {
@@ -13,11 +13,11 @@ inquirer
       name: "badges"
   },
   {
-      message: "Can you describe your project",
+      message: "Can you describe your project?",
       name: "description"
   },
   {
-      message: "What is your Table of Contents",
+      message: "What is your Table of Contents?",
       name: "contents"
   },
   {
@@ -37,8 +37,8 @@ inquirer
       name:"Contributing"
   },
   {
-      message:"How did you tests it?",
-      name: "tests"
+      message:"How did you test it?",
+      name: "test"
   },
   {
       message:"Questions?",
@@ -46,16 +46,31 @@ inquirer
   }
 
 ])
-  .then(function({ username }) {
-    const queryUrl = `https://api.github.com/users/${username}`;
+  .then(function(answers) {
+    const queryUrl = `https://api.github.com/users/${answers.username}`;
 
-    axios.get(queryUrl).then(function(res) {
-       
+    axios.get(queryUrl).then(function(res) {  
         const proImage = res.data.avatar_url
         const email = res.data.email
-        console.log(proImage,email);
-
-
+        
+        answers.proImage = proImage;
+        answers.email = email;
+        var markDownText = markDown(answers)
+        console.log(answers)
+        fs.writeFile("readme.md", markDownText, function(err) {
+            if (err) {
+              throw err;
+            }
+    
+          });
+        return {proImage, email};
+        
+    })
+    
     });
-  });
+    // function init() {
+
+    // }
+    
+    // init(); 
 
