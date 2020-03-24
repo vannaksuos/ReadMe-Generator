@@ -1,5 +1,5 @@
-[](![profile pic for school](https://user-images.githubusercontent.com/59664686/77477201-5d1e4700-6df2-11ea-843a-0e5cd1710076.jpg)
-)
+(![profile pic for school](https://user-images.githubusercontent.com/59664686/77477201-5d1e4700-6df2-11ea-843a-0e5cd1710076.jpg)
+
 # https://avatars1.githubusercontent.com/u/59664686?v=4
 # vannaksuos@gmail.com
 # Title : Readme Generator
