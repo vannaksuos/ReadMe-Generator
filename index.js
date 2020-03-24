@@ -59,7 +59,7 @@ inquirer
         
         answers.proImage = proImage;
         answers.email = email;
-        var markDownText = markDown(answers)
+        let markDownText = markDown(answers)
         console.log(answers)
         fs.writeFile("readme.md", markDownText, function(err) {
             if (err) {
