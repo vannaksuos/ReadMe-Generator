@@ -72,9 +72,8 @@ inquirer
     })
     
     });
-    // function init() {
-
-    // }
-    
-    // init(); 
-
+    module.exports = {
+        add: function (a, b) {
+            return a + b;
+        }
+    };
