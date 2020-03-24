@@ -12,4 +12,4 @@
 # with badges i think
 # none
 
-	/drone/build/:user/:repo?server=https%3A%2F%2Fdrone.shields.io
+[![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
