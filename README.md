@@ -1,7 +1,7 @@
 [](![profile pic for school](https://user-images.githubusercontent.com/59664686/77477201-5d1e4700-6df2-11ea-843a-0e5cd1710076.jpg)
 )
 # https://avatars1.githubusercontent.com/u/59664686?v=4
-# null
+# vannaksuos@gmail.com
 # Title : Readme Generator
 #  [![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
 # Description : This is basically a Readme Generator.  Its suppose be what I will use for future projects, where it will make it easy and faster to generate a readme.md
