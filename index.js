@@ -56,11 +56,11 @@ inquirer
     axios.get(queryUrl).then(function(res) {  
         const proImage = res.data.avatar_url
         const email = res.data.email
-        
+        console.log(res)
         answers.proImage = proImage;
         answers.email = email;
         let markDownText = markDown(answers)
-        console.log(answers)
+        // console.log(answers)
         fs.writeFile("readme.md", markDownText, function(err) {
             if (err) {
               throw err;
