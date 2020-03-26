@@ -62,7 +62,7 @@ inquirer
         answers.email = email;
         let markDownText = markDown(answers)
         console.log(answers)
-        fs.writeFile("readme3.md", markDownText, function(err) {
+        fs.writeFile("readme.md", markDownText, function(err) {
             if (err) {
               throw err;
             }

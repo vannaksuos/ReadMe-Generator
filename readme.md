@@ -1,7 +1,7 @@
 
 # ![profile pic for school](https://avatars1.githubusercontent.com/u/59664686?v=4)
 vannaksuos@gmail.com
-# Title: Readme Generator
+# Title: Readme.md Generator
 # [![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
 # Description
  its a readme.md generator
@@ -17,9 +17,9 @@ vannaksuos@gmail.com
 * Tests
 * Questions
 # Installation
-node index.js in my readme generator folder
+node index.js in my readme.md folder
 # Usage
-use it to generate a readme with question and answers Ive already created
+it generate question and answers Ive already create to make it easier to create readme.md
 # License; 
 Copyright (c) 2020 Vannak Suos
 
@@ -29,9 +29,9 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 # Contribution
-no one so far
+
 # Test
-not sure yet
+
 # Questions
 
 
