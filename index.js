@@ -2,6 +2,7 @@ const fs = require("fs");
 const axios = require("axios");
 const inquirer = require("inquirer");
 const markDown = require("./generateMarkdown");
+
 inquirer
   .prompt([
       {
@@ -61,7 +62,7 @@ inquirer
         answers.email = email;
         let markDownText = markDown(answers)
         console.log(answers)
-        fs.writeFile("readme.md", markDownText, function(err) {
+        fs.writeFile("readme3.md", markDownText, function(err) {
             if (err) {
               throw err;
             }
