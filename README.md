@@ -16,24 +16,24 @@ This is basically a Readme Generator.  Its suppose be what I will use for future
 # Table of contents
 
 * Title
-  * Description
-  * Table of Contents
-  * Installation
-  * Usage
-  * License
-  * Contribution
-  * Tests
-  * Questions
+* Description
+* Table of Contents
+* Installation
+* Usage
+* License
+* Contribution
+* Tests
+* Questions
 
-# # Installation
+# Installation
 
  This is where I would explain how to install it
 
-# # Usage
+# Usage
 
 This is where I would put info on usage
 
-# # License: MIT License
+# License: MIT License
 
 Copyright (c) 2020 Vannak Suos
 
