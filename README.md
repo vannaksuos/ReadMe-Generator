@@ -9,7 +9,9 @@
 
 # [![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
 
-# Description : This is basically a Readme Generator.  Its suppose be what I will use for future projects, where it will make it easy and faster to generate a readme.md
+# Description  
+
+This is basically a Readme Generator.  Its suppose be what I will use for future projects, where it will make it easy and faster to generate a readme.md
 
 # Table of contents
 
@@ -23,9 +25,13 @@
   * Tests
   * Questions
 
-# # Installation: This is where I would explain how to install it
+# # Installation
 
-# # Usage: This is where I would put info on usage
+ This is where I would explain how to install it
+
+# # Usage
+
+This is where I would put info on usage
 
 # # License: MIT License
 
@@ -49,8 +55,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# # Contribution: This is where I can add who ever contributed to the project
+# Contribution
 
-# # Test: This is where I would add whatever I used to test it
+This is where I can add who ever contributed to the project
 
-# # Questions: This is where people can ask questions
+# Test
+
+This is where I would add whatever I used to test it
+
+# Questions
+
+This is where people can ask questions
