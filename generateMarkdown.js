@@ -34,6 +34,7 @@ ${data.Contributing}
 # Test
 ${data.test}
 # Questions
+If you have any questions you can email me at vannaksuos@gmail.com
 ${data.questions}
 
 `;
