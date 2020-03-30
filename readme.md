@@ -1,12 +1,12 @@
 
 # ![profile pic for school](https://avatars1.githubusercontent.com/u/59664686?v=4)
 vannaksuos@gmail.com
-Links to deploy Application:
+##Links to deploy Application:
 https://vannaksuos.github.io/ReadMe-Generator/
 # Title:Readme Generator
 # [![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
 # Description
- This section is for description 
+ This is where I would describe my project
 # Table of contents
 
 * Title
@@ -19,9 +19,9 @@ https://vannaksuos.github.io/ReadMe-Generator/
 * Tests
 * Questions
 # Installation
-This section is for instruction on how to install it
+This section will explain how to install it
 # Usage
-This section in instruction on how to use it
+This section will explain how to use it
 # License; 
 Copyright (c) 2020 Vannak Suos
 
@@ -31,9 +31,9 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 # Contribution
-This section is where I can add contributions
+This section is where I will add contributors
 # Test
-This section what I used to test it
+This section is where I explain how I test it
 # Questions
 If you have any questions you can email me at vannaksuos@gmail.com
 
