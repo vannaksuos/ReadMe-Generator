@@ -2,7 +2,7 @@ function generateMarkdown(data) {
   return `
 # ![profile pic for school](${data.proImage})
 vannaksuos@gmail.com
-Links to deploy Application:
+##Links to deploy Application:
 https://vannaksuos.github.io/ReadMe-Generator/
 # Title:${data.title}
 # [![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
