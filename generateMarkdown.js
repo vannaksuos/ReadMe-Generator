@@ -1,7 +1,7 @@
 function generateMarkdown(data) {
   return `
 # ![profile pic for school](${data.proImage})
-vannaksuos@gmail.com
+<a href="vannaksuos@gmail.com"</a>
 ##Links to deploy Application:
 https://vannaksuos.github.io/ReadMe-Generator/
 # Title:${data.title}
@@ -36,7 +36,7 @@ ${data.Contributing}
 # Test
 ${data.test}
 # Questions
-If you have any questions you can email me at vannaksuos@gmail.com
+If you have any questions you can email me at <a href="vannaksuos@gmail.com"</a>
 ${data.questions}
 
 `;
