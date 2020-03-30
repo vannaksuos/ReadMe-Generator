@@ -25,8 +25,6 @@ vannaksuos@gmail.com
 
 # Installation
 
-I run node index.js in my readme generator folder and it has prebuilt question and some answers ready to write in to my readme.md file from my markdown.js
-
 # Usage
 
 It will be used to generate a pre made readme file for all my future projects
