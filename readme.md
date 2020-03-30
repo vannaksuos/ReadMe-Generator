@@ -1,7 +1,9 @@
 
 # ![profile pic for school](https://avatars1.githubusercontent.com/u/59664686?v=4)
-<a href="vannaksuos@gmail.com"</a>
-##Links to deploy Application:
+
+vannaksuos@gmail.com
+
+## Links to deploy Application:
 https://vannaksuos.github.io/ReadMe-Generator/
 # Title:Readme Generator
 # [![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
@@ -35,6 +37,4 @@ This section is where I would add contributors
 # Test
 This section is where I explain how I test it
 # Questions
-If you have any questions you can email me at <a href="vannaksuos@gmail.com"</a>
-
-
+If you have any questions you can email me at vannaksuos@gmail.com
