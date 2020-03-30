@@ -9,7 +9,7 @@ vannaksuos@gmail.com
 
 # Description
 
- Its a readme generator. It will help me make a readme for github faster so I dont have to spend too much time building it
+ Its a readme generator. It will help me make a readme for github faster so I don't have to spend too much time building it
 
 # Table of contents
 
@@ -25,7 +25,7 @@ vannaksuos@gmail.com
 
 # Installation
 
-I run node index.js in my readme generator folder and it has prebuild question and some answers ready to write in to my readme.md file from my markdown.js
+I run node index.js in my readme generator folder and it has prebuilt question and some answers ready to write in to my readme.md file from my markdown.js
 
 # Usage
 
