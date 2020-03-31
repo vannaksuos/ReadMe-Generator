@@ -1,9 +1,11 @@
 
 # ![profile pic for school](https://avatars1.githubusercontent.com/u/59664686?v=4)
 
+![gif](https://github.com/vannaksuos/ReadMe-Generator/blob/master/gif/animategif.gif?raw=true)
+
 vannaksuos@gmail.com
 
-## Links to deploy Application:
+## Links to deploy Application
 
 <https://vannaksuos.github.io/ReadMe-Generator/>
 
@@ -13,7 +15,7 @@ vannaksuos@gmail.com
 
 # Description
 
- This section is for description of project
+ This is reserve for description of your project
 
 # Table of contents
 
@@ -29,11 +31,11 @@ vannaksuos@gmail.com
 
 # Installation
 
-npm install in terminal
+run npm install in your terminal in the index.js file
 
 # Usage
 
-run node index.js and answer the questions, some question such as table of contents, license is already hard coded in but you modify the generateMarkdown.js
+run node index.js in your terminal and answer questions, some question can be hardcoded in the generateMarkdown.js, and can alway be modified
 
 # License
 
@@ -47,11 +49,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 # Contribution
 
-This section is where you can add contributors name or pic etc
+This section is reserve to add any contributors
 
 # Test
 
-This section you can add how you test it, I used travis cl
+This section is to state what you use to test your project. I used travis ci
 
 # Questions
 

@@ -1,13 +1,18 @@
 function generateMarkdown(data) {
   return `
 # ![profile pic for school](${data.proImage})
+![gif](https://github.com/vannaksuos/ReadMe-Generator/blob/master/gif/animategif.gif?raw=true)
+
 vannaksuos@gmail.com
-##Links to deploy Application:
+
+## Links to deploy Application
 https://vannaksuos.github.io/ReadMe-Generator/
+
 # Title:${data.title}
 # [![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
 # Description
  ${data.description}
+
 # Table of contents
 
 * Title
@@ -23,7 +28,7 @@ https://vannaksuos.github.io/ReadMe-Generator/
 ${data.installation}
 # Usage
 ${data.usage}
-# License; ${data.license}
+# License ${data.license}
 Copyright (c) 2020 Vannak Suos
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -31,10 +36,13 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 # Contribution
 ${data.Contributing}
+
 # Test
 ${data.test}
+
 # Questions
 If you have any questions you can email me at vannaksuos@gmail.com
 ${data.questions}

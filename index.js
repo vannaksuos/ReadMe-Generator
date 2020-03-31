@@ -48,7 +48,11 @@ inquirer
   {
       message:"Questions?",
       name:"questions"
-  }
+  },
+  {
+      message: "Do you have an Gif Demo",
+      name: "Gif"
+  },
 
 ])
   .then(function(answers) {
