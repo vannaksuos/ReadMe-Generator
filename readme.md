@@ -3,7 +3,7 @@
 
 vannaksuos@gmail.com
 
-## Links to deploy Application
+## Links to deploy Application:
 
 <https://vannaksuos.github.io/ReadMe-Generator/>
 
@@ -13,7 +13,7 @@ vannaksuos@gmail.com
 
 # Description
 
- This section is where I would describe my project
+ This section is for description of project
 
 # Table of contents
 
@@ -29,11 +29,11 @@ vannaksuos@gmail.com
 
 # Installation
 
-In your terminal run npm install
+npm install in terminal
 
 # Usage
 
-run node index.js and answer the questions, some questions already have prebuilt answers like table of content or license, you can just hit enter on those or change the hard code in generateMarkdown.js.
+run node index.js and answer the questions, some question such as table of contents, license is already hard coded in but you modify the generateMarkdown.js
 
 # License
 
@@ -47,11 +47,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 # Contribution
 
-This is where you can add contributors name, pictures etc
+This section is where you can add contributors name or pic etc
 
 # Test
 
-You can state what you used to run your test here, I used travis cl
+This section you can add how you test it, I used travis cl
 
 # Questions
 
