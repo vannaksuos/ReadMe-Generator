@@ -51,7 +51,7 @@ inquirer
         name: "test"
     },
     {
-        message:"What is your email address?",
+        message:"If you have any questions for me you can email me at?",
         name:"questions"     
     },
     {

@@ -4,55 +4,40 @@
 # Email:(null)
 
 # Deploy Github link
+https://vannaksuos.github.io/ReadMe-Generator/
 
-<https://vannaksuos.github.io/ReadMe-Generator/>
-
-# Title:Readme Generator
+# Title:ReadMe Generator
 
 # Badges
-
-[![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
+ [![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
 
 # Description
-
-This is a readme generator, just building an application that will generate a readme for future yesmade easy
+This project is a readme generator, its an application that can generate a user a readme for github with question suited for a new project. I will save users alot of time
 
 # Table of contents
-
-Title
+Title, Description, Table of Contents, Installation, Usage, License, Contribution, Tests, Questions
 
 # Installation
-
-run npm install in terminal
+Run npm install in your terminal inside your folder
 
 # Usage
-<<<<<<< HEAD
-
-run node index.js in terminial and answer question
-=======
-run node index.js in terminal and answer question
->>>>>>> 7b2ee3c4be8042e98a6620122c16089b4df926a2
+Run node index.js and answer the questions
 
 # License
-
-Copyright (c) 2020 Vannak Suos
+Copyright (c) 2020 Vannak Suos Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Contribution
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+none
 
 # Test
-
-I used travis ci
+travis ci
 
 # Email
-
 vannaksuos@gmail.com
 
 # Github Profile picture
-
-This is where you can add the link to your profile pic
+![PROFILE](https://user-images.githubusercontent.com/59664686/78210880-846fb680-7479-11ea-9143-624aac86cba7.PNG)
 
 # Demo
+![demo](https://user-images.githubusercontent.com/59664686/78210203-7456d780-7477-11ea-90bb-e693f0721386.gif)
 
-![animategif2](https://user-images.githubusercontent.com/59664686/78207462-c3007380-746f-11ea-9e23-60aab1b65ce1.gif)
