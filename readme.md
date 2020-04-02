@@ -26,8 +26,12 @@ Title
 run npm install in terminal
 
 # Usage
+<<<<<<< HEAD
 
 run node index.js in terminial and answer question
+=======
+run node index.js in terminal and answer question
+>>>>>>> 7b2ee3c4be8042e98a6620122c16089b4df926a2
 
 # License
 
