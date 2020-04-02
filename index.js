@@ -26,9 +26,9 @@ inquirer
         name: "description"
     },
     {
-        message: "What is your Table of Contents?",
+        message: "List each section of your table of contents, separated by a comma",
         name: "contents",
-        list: "list",
+        
     },
     {
         message: "How do you install it?",
@@ -74,6 +74,16 @@ inquirer
     
         answers.proImage = proImage;
         answers.email = email;
+        let updateStr = "<br/>"
+
+        let tableContent =answers.contents
+        let tableContentArray = tableContent.split(",") 
+        for(let i = 0; i < tableContentArray.length; i++) {
+            let str = `${i + 1}. ${tableContentArray[i].trim()}<br/>`
+            updateStr += str
+        }
+            answers.contents = updateStr
+
         let markDownText = markDown(answers)
         console.log(answers)
         fs.writeFile("readme.md", markDownText, function(err) {
