@@ -55,9 +55,14 @@ inquirer
         name:"questions"     
     },
     {
+        message: "What is your Github Profile picture link",
+        name: "githubProfilePic"
+    },
+    {
         message: "Do you have an Gif Demo",
         name: "Gif"
     },
+
 
 ])
   .then(function(answers) {

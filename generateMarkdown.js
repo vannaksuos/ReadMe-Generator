@@ -36,6 +36,9 @@ ${data.test}
 # Email
 ${data.questions}
 
+#Github Profile picture
+${data.githubProfilePic}
+
 # Demo
 ${data.Gif}
 
