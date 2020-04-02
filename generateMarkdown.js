@@ -12,7 +12,7 @@ ${data.deploy}
 # Badges
 ${data.badges}
 
-#Description
+# Description
 ${data.description}
 
 # Table of contents
