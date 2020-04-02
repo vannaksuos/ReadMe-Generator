@@ -21,7 +21,7 @@ Title
 run npm install in terminal
 
 # Usage
-run node index.js in terminial and answer question
+run node index.js in terminal and answer question
 
 # License
 Copyright (c) 2020 Vannak Suos
