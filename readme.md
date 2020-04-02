@@ -35,7 +35,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 # Test
-I used Travis ci
+I used https://travis-ci.org/getting_started
 
 # Email
 vannaksuos@gmail.com
