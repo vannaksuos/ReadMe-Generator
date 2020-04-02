@@ -4,55 +4,60 @@ const inquirer = require("inquirer");
 const markDown = require("./generateMarkdown");
 
 inquirer
-  .prompt([
-      {
-      message: "Enter your GitHub username:",
-      name: "username"
-  },
-  { 
-      message: "What is the Title?",
-      name: "title"
-  },
-  {
-      message: "What do you want in your badges?",
-      name: "badges"
-  },
-  {
-      message: "Can you describe your project?",
-      name: "description"
-  },
-  {
-      message: "What is your Table of Contents?",
-      name: "contents"
-  },
-  {
-      message: "How do you install it?",
-      name:"installation"
-  },
-  {
-      message: "How do you use it?",
-      name:"usage"
-  },
-  {
-      message: "Can you give us license info?",
-      name:"license"
-  },
-  {
-      message: "Any Contributing?",
-      name:"Contributing"
-  },
-  {
-      message:"How did you test it?",
-      name: "test"
-  },
-  {
-      message:"Questions?",
-      name:"questions"
-  },
-  {
-      message: "Do you have an Gif Demo",
-      name: "Gif"
-  },
+    .prompt([
+    {
+        message: "Enter your GitHub username:",
+        name: "username"
+    }, 
+    {
+        message: "Whats your link to your deploy github",
+        name:"deploy"
+    },
+    { 
+        message: "What is the Title?",
+        name: "title"
+    },
+    {
+        message: "What do you want in your badges?",
+        name: "badges"
+    },
+    {
+        message: "Can you describe your project?",
+        name: "description"
+    },
+    {
+        message: "What is your Table of Contents?",
+        name: "contents",
+        list: "list",
+    },
+    {
+        message: "How do you install it?",
+        name:"installation"
+    },
+    {
+        message: "How do you use it?",
+        name:"usage"
+    },
+    {
+        message: "Can you give us license info?",
+        name:"license"
+    },
+    {
+        message: "Any Contributing?",
+        name:"contributing"
+    },
+    {
+        message:"How did you test it?",
+        name: "test"
+    },
+    {
+        message:"What is your email address?",
+        name:"questions"     
+    },
+    {
+        message: "Do you have an Gif Demo",
+        name: "Gif"
+    },
 
 ])
   .then(function(answers) {

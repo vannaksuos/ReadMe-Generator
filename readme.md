@@ -1,60 +1,40 @@
 
 # ![profile pic for school](https://avatars1.githubusercontent.com/u/59664686?v=4)
 
-![gif](https://github.com/vannaksuos/ReadMe-Generator/blob/master/gif/animategif.gif?raw=true)
+# Email:(null)
 
-vannaksuos@gmail.com
-
-## Links to deploy Application
-
+# Deploy Github link
 <https://vannaksuos.github.io/ReadMe-Generator/>
 
 # Title:Readme Generator
 
-# [![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
+# Badges
+[![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
 
-# Description
-
- This is reserve for description of your project
+#Description
+This project is to create a readme generator
 
 # Table of contents
-
-* Title
-* Description
-* Table of Contents
-* Installation
-* Usage
-* License
-* Contribution
-* Tests
-* Questions
+This section is for table of contents
 
 # Installation
-
-run npm install in your terminal in the index.js file
+This section is for instruction on how to install it
 
 # Usage
-
-run node index.js in your terminal and answer questions, some question can be hardcoded in the generateMarkdown.js, and can alway be modified
+This section is for instruction on how to use it
 
 # License
-
-Copyright (c) 2020 Vannak Suos
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+This is where you would put your license 
 
 # Contribution
-
-This section is reserve to add any contributors
+This is where you would any contributors
 
 # Test
+This is where you add what test you used
 
-This section is to state what you use to test your project. I used travis ci
+# Email
+This is where you can add your email for people with questions or comments
 
-# Questions
+# Demo
+This is where you can add a demo .
 
-If you have any questions you can email me at vannaksuos@gmail.com
