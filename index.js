@@ -43,7 +43,7 @@ inquirer
         name:"license"
     },
     {
-        message: "Any Contributing?",
+        message: "Any Contribution?",
         name:"contributing"
     },
     {
@@ -51,7 +51,7 @@ inquirer
         name: "test"
     },
     {
-        message:"If you have any questions for me you can email me at?",
+        message:"If you have any questions for me, please email me at",
         name:"questions"     
     },
     

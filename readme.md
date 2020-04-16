@@ -1,40 +1,66 @@
 
 # ![profile pic for school](https://avatars1.githubusercontent.com/u/59664686?v=4)
 
-# Email:(null)
+# Email:Vannaksuos@gmail.com
 
 # Deploy Github link
-https://github.com/vannaksuos/ReadMe-Generator
 
-# Title:Readme Generator
+<https://github.com/vannaksuos/ReadMe-Generator>
+
+# Title: Readme Generator
 
 # Badges
- [![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
+
+[![Build Status](https://travis-ci.com/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.com/vannaksuos/ReadMe-Generator)
 
 # Description
-This is a readme generator, it will generate a template that you will need in your readme file in git hub, it will ask question thats usually needed for github readme
+
+When creating an open source project on GitHub, it is important to have a quality README with information about the app--what is the app for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. A command-line application will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
 
 # Table of contents
-<br/>1. Title<br/>2. badges<br/>3. Description<br/>4. Table of Contents<br/>5. Installation<br/>6. Usage<br/>7. License<br/>8. Contribution<br/>9. test<br/>
+
+<br/>1. Title<br/>2. Description<br/>3. Table of Contents<br/>4. Installation<br/>5. Usage<br/>6. License<br/>7. Contribution<br/>8. Tests<br/>9. Questions<br/>10. Demo<br/>
 
 # Installation
-Run npm i in your terminal in your index.js file
+
+npm install
 
 # Usage
-Run node index.js in your terminal and answer all the question
+
+to generate a readme.md file for github
 
 # License
-Copyright (c) 2020 Vannak Suos <br> Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: </br> <br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. <b/br> <br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+MIT License
+
+Copyright (c) 2020 Vannak Suos
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 # Contribution
 
-
 # Test
-I used https://travis-ci.org/getting_started
 
-# Email
+travis cl
+
+# If you have questions for me you can email me at
+
 vannaksuos@gmail.com
 
 # Demo
-![demo](https://user-images.githubusercontent.com/59664686/78210203-7456d780-7477-11ea-90bb-e693f0721386.gif)
-
