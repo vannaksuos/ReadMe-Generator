@@ -1,20 +1,19 @@
 
 # ![profile pic for school](https://avatars1.githubusercontent.com/u/59664686?v=4)
 
-# Email:(null)
+# Email:vannaksuos@gmail.com
 
 # Deploy Github link
 
-https://vannaksuos.github.io/burger/ 
+https://vannaksuos.github.io/ReadMe-Generator/
 
-# Title:Burger
+# Title: Readme Generator
 
 # Badges
 
-
+[![Build Status](https://travis-ci.org/vannaksuos/ReadMe-Generator.svg?branch=master)](https://travis-ci.org/vannaksuos/ReadMe-Generator)
 # Description
-
- This assignment, Ive create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). I'm following the MVC design pattern; use Node and MySQL to query and route data in my app, and Handlebars to generate my HTML.
+This is a readme generator to be used for all my future projects and homework. It helps me make a readme faster so I can spend more time on my work or project then the readme part
 
 # Table of contents
 
@@ -22,11 +21,11 @@ https://vannaksuos.github.io/burger/
 
 # Installation
 
-npm init <br> npm i mysql<br> npm i express
+npm init <br> npm i <br> npm i inquirer ,<br> npm i axious
 
 # Usage
 
-run node server.js
+run node index.js and answer all the question
 
 # License
 
