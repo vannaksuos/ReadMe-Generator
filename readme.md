@@ -7,6 +7,8 @@
 
 https://vannaksuos.github.io/ReadMe-Generator/
 
+# Deploy Heroku link
+
 # Title: Readme Generator
 
 # Badges
@@ -17,7 +19,21 @@ This is a readme generator to be used for all my future projects and homework. I
 
 # Table of contents
 
-<br/>1. Titile<br/>2. Description<br/>3. Table of Contents<br/>4. Installation<br/>5. Usage<br/>6. License<br/>7. Contribution<br/>8. Test<br/>9. Question<br/>10. Demo<br/>
+* [Description](#description)
+
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [Contribution](#contribution)
+
+* [Demo](#demo)
+
+* [Test](#test)
+
+* [Email](#email)
+
+* [License](#license)
 
 # Installation
 
